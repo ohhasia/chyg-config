@@ -1,0 +1,16 @@
+{
+  "loginarr": [{ "url": "yw.scdzscxt.com", "port": "443" }],
+  "trade_mqtt": [{ "url": "yt.scdzscxt.com", "port": "443", "wss": true }],
+  "quote_mqtt": [{ "url": "yt.scdzscxt.com", "port": "443", "wss": true }],
+  "distri": [{ "url": "yw.scdzscxt.com", "port": "443" }],
+  "bk_id": 324,
+  "is_ssl": 1,
+  "apiUrl": "https://yw.scdzscxt.com/apigateway",
+  "wsUrl": "wss://yt.scdzscxt.com/wsfront_tq",
+  "firmId": "568022",
+  "marketId": "28",
+  "jingling": {
+    "expire": "2500-12-10",
+    "price": "0.1"
+  }
+}
